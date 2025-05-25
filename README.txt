@@ -1,0 +1,1 @@
+Please replace 'mascot.glb' with your own 3D model file (GLB format).
